@@ -33,5 +33,5 @@ This project, developed by **Mayank Rajput**, focuses on analyzing trending topi
 ## 👨‍💻 Developed By
 **Mayank Rajput**  
 📧 [mayankrjj@gmail.com](mailto:mayankrjj@gmail.com)  
-🌐 [LinkedIn]((https://www.linkedin.com/in/mayankrajput01/))  
+🌐 [LinkedIn](https://www.linkedin.com/in/mayankrajput01/)
 🐙 [GitHub](https://github.com/mayankrjj)
